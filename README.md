@@ -49,16 +49,27 @@ Readitt is a website that enables users to create, read, and interact with AI-ge
    ```
 
    Required environment variables:
+
    NEXT_PUBLIC_SUPABASE_URL
+
    NEXT_PUBLIC_SUPABASE_ANON_KEY
+
    ANTHROPIC_API_KEY
+
    SLACK_CLIENT_ID
+
    SLACK_CLIENT_SECRET
+
    SLACK_STATE_SECRET
+
    JWT_SECRET
+
    NEXTAUTH_URL
+
    AI_HORDE_API_KEY
+
    AIRTABLE_API_KEY
+
    AIRTABLE_BASE_ID
 
 4. **Set up the database**
