@@ -87,3 +87,7 @@ Readitt is a website that enables users to create, read, and interact with AI-ge
    ```
 
    Readitt will be available at `http://localhost:3001`
+
+   ### Warning
+
+   Readitt is not in a state in which I can recommend it being run in a big production environment, as many features are in development, constantly change and can have some inconsistencies.
